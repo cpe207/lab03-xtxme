@@ -10,14 +10,6 @@ body{
   background-color: #ffc6c7;
 }
 
-div {
-  border: 4px solid #c3f0ca;
-  padding: 8px;
-  width: 1050px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 footer {
   background-color: #c3f0ca;
   padding: 10px;
